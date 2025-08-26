@@ -1,0 +1,27 @@
+{
+  "name": "student-management-system-using-mern-stack",
+  "version": "1.0.0",
+  "description": "Welcome to the Student Management System repository! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and provides a comprehensive solution for managing student records.",
+  "main": "index.js",
+  "dependencies": {
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "react": "^18.2.0",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopisai123/student-manag_sys.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopisai123/student-manag_sys/issues"
+  },
+  "homepage": "https://github.com/gopisai123/student-manag_sys#readme"
+}
